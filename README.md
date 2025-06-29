@@ -21,11 +21,10 @@ This application goes beyond being a simple utility; it aims to provide a deligh
 
 ## 📸 Screenshots
 
-| Main Screen (Day) | Main Screen (Night) | 7-Day & Hourly Forecast | Settings |
+| Main Screen (Day) | Main Screen (Night) & Hourly Forcast | 7-Day Forecast | Settings |
 | :---: | :---: | :---: | :---: |
-| <img src="URL_TO_DAY_SCREENSHOT" width="200"/> | <img src="URL_TO_NIGHT_SCREENSHOT" width="200"/> | <img src="URL_TO_FORECAST_SCREENSHOT" width="200"/> | <img src="URL_TO_SETTINGS_SCREENSHOT" width="200"/> |
+| <img src="https://github.com/user-attachments/assets/0f249f2a-f4bb-48d1-946f-b5a09e1c440e" width="200"/> | <img src="https://github.com/user-attachments/assets/8781518a-5241-48eb-b03d-d0b046fdef8d" width="200"/> | <img src="https://github.com/user-attachments/assets/62918a38-a78f-40d6-bac3-59a34ca25ebb" width="200"/> | <img src="https://github.com/user-attachments/assets/86925453-6a1c-406a-9140-0064601a84e4" width="200"/> |
 
-*(Note: Replace the `URL_TO_...` placeholders above with direct links to your application screenshots for a live preview.)*
 
 <br>
 
