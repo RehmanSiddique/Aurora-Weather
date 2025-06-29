@@ -28,6 +28,10 @@ This application goes beyond being a simple utility; it aims to provide a deligh
 
 <br>
 
+## Video
+
+<br>
+
 ## 🛠️ Tech Stack & Architecture
 
 -   **Language:** [Dart](https://dart.dev/)
